@@ -81,3 +81,13 @@
 # dic = {word:text.count(word) for word in text}
 # print(dic)
 
+
+## 긴 단어 추출하기
+
+# word = "Today's my favorite day"
+# text = word.split()
+# dic = {len(num):num for num in text}
+# co = max(dic.keys())
+# print(dic[co])
+
+
